@@ -5,3 +5,9 @@ src/runs
 src/checkpoints
 res/.ipynb_checkpoints
 
+.DS_Store
+.ipynb_checkpoints
+src/.ipynb_checkpoints
+src/diagnosis_big.csv
+src/diagnosis_temp.csv
+src/diagnosis_data.csv
